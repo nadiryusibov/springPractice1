@@ -1,0 +1,35 @@
+bank:
+  name: Kapital
+  opened: 1993
+  location: Mingechevir
+  head.office: Baku
+  branches:
+    - Khatai
+    - Akhmedli
+    - Lankaran
+    - Nizami
+  contacts:
+    - phone: 994553756832
+      email: nadir.yusib@gmail.com
+    - phone: 994556673455
+      email: ferrux.xelilov@gmail.com
+  address:
+    Baki: Esed Ehmedov
+    Mingechevir: Zuleyxa Hesenova
+  branchess:
+    1:
+      name: Sumqayit
+      address: Meydan 30
+    2:
+      name: Salyan
+      address: Aliyev kuc
+company:
+  name: Kapital
+  opened: 1998
+  location: Sheki
+  head.office: Baku
+  branchess:
+    - Salyan
+    - Akhmedli
+    - Agdam
+    - Nizami
